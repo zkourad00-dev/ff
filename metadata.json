@@ -1,0 +1,6 @@
+{
+  "name": "المصحف الشريف",
+  "description": "تطبيق المصحف الشريف لقراءة السور، التحفيظ بالصور، التسميع الصوتي، والأذكار اليومية.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
